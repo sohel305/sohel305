@@ -46,8 +46,4 @@ Hey, I'm Sohel — an engineer passionate about building tools that simplify com
 
 
 
-```
 
-Once you paste it, click that **"Preview"** tab right next to the "Edit" tab on GitHub. You should see all the colored badges and stats appear instantly! Let me know if it works.
-
-```

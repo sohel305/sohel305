@@ -1,16 +1,3 @@
-Here is the complete, exact code. I've also fixed the GitHub link in the first section so it links properly to your profile.
-
-To make sure you get all the formatting tags:
-
-1. Click anywhere inside the dark code box below.
-2. Press **Ctrl + A** to select all the code inside the box.
-3. Press **Ctrl + C** to copy it.
-4. Go to your GitHub tab, click into the editor box, press **Ctrl + A** to select your old text, and press **Ctrl + V** to paste the new code over it.
-
-```html
-
-```
-
 # Hi 👋, I'm Sohel Banadar
 
 **Full-Stack AI Engineer | IoT | Open Source Contributor**

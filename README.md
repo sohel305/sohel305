@@ -20,6 +20,7 @@ Hey, I'm Sohel — an engineer passionate about building tools that simplify com
 
 **Languages**
 
+<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/19411a66-aabb-46b5-bfd7-e59c0cbfbcd9" />
 
 
 
